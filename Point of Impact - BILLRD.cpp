@@ -1,3 +1,3 @@
 /*
-pastebin link==>  https://shrinke.me/AoBaVMTj
+solution link==>  https://shrinke.me/AoBaVMTj
 */
