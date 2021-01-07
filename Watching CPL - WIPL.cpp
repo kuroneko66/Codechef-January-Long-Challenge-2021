@@ -1,5 +1,5 @@
 /*
-Solution link ==> https://shrinke.me/7BtA
+Solution link ==> http://gestyy.com/etkei0
 */
  
  

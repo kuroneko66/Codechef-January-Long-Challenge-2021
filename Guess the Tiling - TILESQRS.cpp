@@ -1,5 +1,5 @@
 /*
-Solution link - https://shrinke.me/z188Cl
+Solution link - http://gestyy.com/etkeuw
 */
  
   
